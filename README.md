@@ -15,16 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👩‍💻 Trish Kedi
+# 👩‍💻 Patricia Atim
 **Software Engineer | Embedded Systems | FinTech Enthusiast**
 
 ---
 
 ## 📫 Contact
-- **Email:** your.email@example.com
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Email:** patricia.atim@stud.th-deg.de
+- **LinkedIn:** [linkedin.com/in/patricia-atim](https://linkedin.com/in/patricia-atim)
 - **GitHub:** [TrishKedi](https://github.com/TrishKedi)
-
 ---
 
 ## 👩‍🏫 About Me
