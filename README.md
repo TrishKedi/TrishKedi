@@ -95,4 +95,11 @@ Digital banking platform designed for SACCOs and investment clubs to support fin
 
 ---
 
+# 👩‍💻 Patricia Atim's GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TriskKedi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TriskKedi&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=TriskKedi&theme=radical)
+
+
 
