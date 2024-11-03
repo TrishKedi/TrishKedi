@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 ---
 
 ## 👩‍🏫 About Me
-I am an experienced Software Engineer with over 6 years of experience in developing software solutions for industries including telecommunications and finance. With a solid background in Artificial Intelligence, ,FinTech, I bring expertise in designing robust applications that scale. I am currently pursuing a Master's in Artificial Intelligence at the Deggendorf Institute of Technology in Germany.
+I am an experienced Software Engineer with over 6 years of experience in developing software solutions for industries including telecommunications and finance. With a solid background in Artificial Intelligence, ,FinTech, I bring expertise in designing robust applications that scale. 
+
+**I am currently** pursuing a Master's in Artificial Intelligence at the Deggendorf Institute of Technology in Germany.
 
 ---
 
@@ -52,16 +54,34 @@ I am an experienced Software Engineer with over 6 years of experience in develop
 
 ## 📂 Featured Projects
 
-### MTN Pulse App
+Visit my ![portfolio](https://github.com/TrishKedi/professional-projects) to see all projects
+
+### [MTN Pulse App](https://github.com/TrishKedi/mtn-pulse-app)
 A high-traffic mobile application that provides MTN’s youth community with exclusive offers, data packages, and event information.
 - **Role:** Lead Engineer
-- **Technologies:** Java, API integration, cloud services
+- **Technologies:**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 - **Impact:** Served millions of users and facilitated thousands of daily transactions
 
-### Kanzu Banking
+### [Kanzu Banking Self-Service](https://github.com/TrishKedi/kanzu-banking-selfservice)
 Digital banking platform designed for SACCOs and investment clubs to support financial inclusion.
 - **Role:** Software Engineer
-- **Technologies:** Python, REST APIs, cloud infrastructure
+- **Technologies:**
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+- **Impact:** Enabled community savings groups to digitize financial services
+
+### [MTN Ayoba Micro-App](https://github.com/TrishKedi/ayoba-micro-app)
+A high-traffic mobile application embedded within the Ayoba messaging platform, allowing users to easily purchase Gaga and Freedom bundles.
+- **Role:** Lead Engineer
+- **Technologies:**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+- **Impact:** Served millions of users and facilitated thousands of daily transactions
+
+### [Kanzu Banking Android Self-Service](https://github.com/TrishKedi/kanzu-banking-selfservice)
+Android self-service APP, that empowers users with easy access to banking services directly from their mobile devices. Leveraging the Mifos framework, my role involved designing the app interface, implementing core functionalities, and ensuring that security and usability standards were met.
+- **Role:** Software Engineer
+- **Technologies:**
+  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white),  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 - **Impact:** Enabled community savings groups to digitize financial services
 
 ---
