@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 # 👩‍💻 Patricia Atim
 **Software Engineer | AI & ML Scholar | FinTech Enthusiast | Data Science | Embedded Systems**
@@ -32,6 +32,41 @@ I am an experienced Software Engineer with over 6 years of experience in develop
 **I am currently** pursuing a Master's in Artificial Intelligence at the Deggendorf Institute of Technology in Germany.
 
 ---
+-->
+
+<div align="center">
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hi there..+I'm+ Trish!;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
+    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
+</div>
+
+<div align="center">
+  <h2>🚀 About Me</h2>
+  <p>I am an experienced Software Engineer with over 6 years of experience in developing software solutions for industries including telecommunications and finance. With a solid background in Artificial   Intelligence, ,FinTech, I bring expertise in designing robust applications that scale. **I am currently** pursuing a Master's in Artificial Intelligence at the Deggendorf Institute of Technology in Germany..</p>
+</div>
+
+<div align="center">
+<h2 align="center" class="section-heading">🌐 Connect with Me</h2>
+<p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
+<div align="center">
+  <a href="https://linkedin.com/in/patricia-atim">
+    <img src="https://img.shields.io/badge/TrishKedi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/TrishKedi/" target="_blank">
+      <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=TrishKedi&style=for-the-badge" alt="Profile views" />
+</div>
+
+<div align="center">
+  <h2>🚀 Github Commits</h2>
+    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
+  <img src="https://raw.githubusercontent.com/TrishKedi/TrishKedi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+  <img src="https://raw.githubusercontent.com/TrishKedi/TrishKedi/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+</div>
+
+
+
+
 
 ## 🔧 Technical Skills
 
