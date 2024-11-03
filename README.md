@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hi there 👋
 
 This is Trish! Welcome to my GitHub!
- ### *Software Engineer* | *AI & ML Scholar* | *FinTech Enthusiast* | *Data Science Scholar* | *Data Science Scholar*
+ #### *Software Engineer* | *AI & ML Scholar* | *FinTech Enthusiast* | *Data Science Scholar* | *Data Science Scholar*
  
 ---
 
@@ -51,9 +51,11 @@ I am an experienced Software Engineer with over 6 years of experience in develop
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 **☁️ Hosting Technologies**
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
 
 **☁️ Databases**
+
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 ---
@@ -62,31 +64,35 @@ I am an experienced Software Engineer with over 6 years of experience in develop
 
 Visit my [portfolio](https://github.com/TrishKedi/professional-projects) to see all projects
 
-### [MTN Pulse App](https://github.com/TrishKedi/mtn-pulse-app)
+### 1. [MTN Pulse App](https://github.com/TrishKedi/mtn-pulse-app)
 A high-traffic mobile application that provides MTN’s youth community with exclusive offers, data packages, and event information.
 - **Role:** Lead Engineer
 - **Technologies:**
+  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 - **Impact:** Served millions of users and facilitated thousands of daily transactions
 
-### [Kanzu Banking Self-Service](https://github.com/TrishKedi/kanzu-banking-selfservice)
+### 2. [Kanzu Banking Self-Service](https://github.com/TrishKedi/kanzu-banking-selfservice)
 Digital banking platform designed for SACCOs and investment clubs to support financial inclusion.
 - **Role:** Software Engineer
 - **Technologies:**
+  
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 - **Impact:** Enabled community savings groups to digitize financial services
 
-### [MTN Ayoba Micro-App](https://github.com/TrishKedi/ayoba-micro-app)
+### 3. [MTN Ayoba Micro-App](https://github.com/TrishKedi/ayoba-micro-app)
 A high-traffic mobile application embedded within the Ayoba messaging platform, allowing users to easily purchase Gaga and Freedom bundles.
 - **Role:** Lead Engineer
 - **Technologies:**
+  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 - **Impact:** Served millions of users and facilitated thousands of daily transactions
 
-### [Kanzu Banking Android Self-Service](https://github.com/TrishKedi/kanzu-banking-selfservice)
+### 4. [Kanzu Banking Android Self-Service](https://github.com/TrishKedi/kanzu-banking-selfservice)
 Android self-service APP, that empowers users with easy access to banking services directly from their mobile devices. Leveraging the Mifos framework, my role involved designing the app interface, implementing core functionalities, and ensuring that security and usability standards were met.
 - **Role:** Software Engineer
 - **Technologies:**
+  
   ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white),  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 - **Impact:** Enabled community savings groups to digitize financial services
 
