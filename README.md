@@ -14,36 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<svg width="400" height="60" viewBox="0 0 400 60" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .text {
-      font: bold 30px sans-serif;
-      fill: #333;
-      white-space: pre;
-      overflow: hidden;
-      animation: typing 3s steps(20, end), blink 0.5s step-end infinite alternate;
-    }
-    
-    @keyframes typing {
-      from {
-        width: 0;
-      }
-    }
-
-    @keyframes blink {
-      50% {
-        border-color: transparent;
-      }
-    }
-
-    .text::after {
-      content: "|";
-      animation: blink 1s step-end infinite;
-    }
-  </style>
-  
-  <text x="10" y="40" class="text">This is Trish! Welcome to my GitHub</text>
-</svg>
 
 # 👩‍💻 This is Trish! Welcome to my GitHub!
 
