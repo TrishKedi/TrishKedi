@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 👩‍💻 Patricia Atim
-**Software Engineer | Embedded Systems | FinTech Enthusiast**
+**Software Engineer | AI & ML Scholar | FinTech Enthusiast | Data Science | Embedded Systems**
 
 ---
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ---
 
 ## 👩‍🏫 About Me
-I am an experienced Software Engineer with over 6 years of experience in developing software solutions for industries including telecommunications and finance. With a solid background in Artificial Intelligence, Embedded Systems, and FinTech, I bring expertise in designing robust applications that scale. I am currently pursuing a Master's in Artificial Intelligence at the Deggendorf Institute of Technology in Germany.
+I am an experienced Software Engineer with over 6 years of experience in developing software solutions for industries including telecommunications and finance. With a solid background in Artificial Intelligence, ,FinTech, I bring expertise in designing robust applications that scale. I am currently pursuing a Master's in Artificial Intelligence at the Deggendorf Institute of Technology in Germany.
 
 ---
 
@@ -89,6 +89,9 @@ Digital banking platform designed for SACCOs and investment clubs to support fin
 ---
 
 ## 🌱 Interests
+- Artificial Intelligence
+- Autonomous Systems
+- Computer Vision
 - Embedded Systems Engineering
 - FinTech and Financial Inclusion
 - Machine Learning for social impact
