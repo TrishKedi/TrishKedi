@@ -102,5 +102,9 @@ Android self-service APP, that empowers users with easy access to banking servic
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrishKedi&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=TrishKedi&theme=radical)
 
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[TrishKedi]&theme=github_dark" alt="[Trish]'s GitHub Stats"/>
+</div>
+
 
 
