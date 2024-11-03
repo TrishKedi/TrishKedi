@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hi there 👋
 
 This is Trish! Welcome to my GitHub!
- #### *Software Engineer* | *AI & ML Scholar* | *FinTech Enthusiast* | *Data Science Scholar* | *Data Science Scholar*
+ #### *Software Engineer* | *AI & ML Scholar* | *FinTech Enthusiast* | *Data Science Scholar* | *Embedded Systems Developer*
  
 ---
 
@@ -31,6 +31,7 @@ This is Trish! Welcome to my GitHub!
 
 ## 👩‍🏫 About Me
 I am an experienced Software Engineer with over 6 years of experience in developing software solutions for industries including telecommunications and finance. With a solid background in Artificial Intelligence, ,FinTech, I bring expertise in designing robust applications that scale. 
+
 **I am currently** pursuing a Master's in Artificial Intelligence at the Deggendorf Institute of Technology in Germany.
 
 ---
