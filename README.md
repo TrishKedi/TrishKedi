@@ -103,7 +103,7 @@ Android self-service APP, that empowers users with easy access to banking servic
 ![GitHub Streak](https://streak-stats.demolab.com/?user=TrishKedi&theme=radical)
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[TrishKedi]&theme=github_dark" alt="[Trish]'s GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TrishKedi&theme=github_dark" alt="Trish's GitHub Stats"/>
 </div>
 
 
