@@ -102,9 +102,14 @@ Android self-service APP, that empowers users with easy access to banking servic
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrishKedi&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=TrishKedi&theme=radical)
 
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TrishKedi&theme=github_dark" alt="Trish's GitHub Stats"/>
-</div>
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TrishKedi&theme=github_dark" alt="Trish's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TrishKedi&theme=github_dark&utcOffset=10" alt="Trish's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TrishKedi&theme=github_dark" alt="Trish's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TrishKedi&theme=github_dark" alt="Trish's GitHub Stats"/></td>
+    </tr>
+ </table>
 
 
 
