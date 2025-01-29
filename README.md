@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hi there 👋
 
 This is Trish! Welcome to my GitHub!
- #### *Software Engineer* | *AI & ML Scholar* | *FinTech Enthusiast* | *Data Science Scholar* | *Embedded Systems Developer*
+ #### *Software Engineer* | *AI & ML Scholar*
  
 ---
 
