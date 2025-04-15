@@ -100,11 +100,9 @@ Android self-service APP, that empowers users with easy access to banking servic
 ---
 
 ## 🌱 My Interests
-- Artificial Intelligence
+- Artificial Intelligence & Generative AI  
 - Autonomous Systems
 - Computer Vision
-- Embedded Systems Engineering
-- FinTech and Financial Inclusion
 - Machine Learning for social impact
 
 ---
