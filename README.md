@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hi there 👋
 
 This is Trish! Welcome to my GitHub!
- #### *Software Engineer* | *AI & ML Scholar*
+ #### 🎓 Master's Student in AI for Smart Sensors & Actuators | 🤖 AI Researcher & Builder | 🧑🏽‍🏫 Teaching Assistant at DIT  |📍 Currently based in Germany | 🌍 Passionate about building intelligent systems that solve real-world problems
  
 ---
 
@@ -30,9 +30,13 @@ This is Trish! Welcome to my GitHub!
 ---
 
 ## 👩‍🏫 About Me
-I am an experienced Software Engineer with over 6 years of experience in developing software solutions. With a solid background in Artificial Intelligence, ,FinTech, I bring expertise in designing robust applications that scale. 
+I'm a software engineer turned AI enthusiast, currently pursuing my **Master's in Artificial Intelligence** at Deggendorf Institute of Technology (Germany).  
+As a **Teaching Assistant for AI & Machine Learning**, I support students in core concepts like neural networks, supervised learning, and model evaluation.  
 
-**I am currently** pursuing a Master's in Artificial Intelligence at the Deggendorf Institute of Technology in Germany.
+My journey is now focused on building **AI-powered tools** for real-world impact — from **agentic task planners** and **intelligent document search tools** to **transformer-based object detectors**.  
+I thrive at the intersection of **Machine Learning**, **Computer Vision**, and **Generative AI**.
+
+> 💡 Please check out my portfolio at [https://trishkedi.github.io/](https://trishkedi.github.io/) to explore more of my work!
 
 ---
 
@@ -73,6 +77,10 @@ I am an experienced Software Engineer with over 6 years of experience in develop
 An autonomous AI agent that handles high-level tasks (e.g., weekly planning) by breaking them down into subtasks using Retrieval-Augmented Generation (RAG). It utilizes calendar APIs and vector memory for contextual awareness and persistent task memory. Features a user-friendly Streamlit interface.
 
 **Technologies:** Python, LangChain, FAISS, OpenAI/Ollama, Streamlit, GitHub Actions
+[![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)](https://www.langchain.com/)  
+[![FAISS](https://img.shields.io/badge/FAISS-000000?style=flat-square)](https://github.com/facebookresearch/faiss)  
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)  
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
 ---
 
@@ -80,6 +88,12 @@ An autonomous AI agent that handles high-level tasks (e.g., weekly planning) by 
 A Generative AI application that analyzes code for bugs, provides fixes using LLMs, and auto-generates documentation. Uses Python’s AST module for static analysis and FastAPI for backend APIs, with cloud-native deployment using Docker & Kubernetes.
 
 **Technologies:** FastAPI, React.js, OpenAI API, Docker, Kubernetes, AWS/GCP, Python AST
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)  
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)  
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)  
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)  
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)  
 
 ---
 
@@ -87,6 +101,11 @@ A Generative AI application that analyzes code for bugs, provides fixes using LL
 Upload a dataset (CSV) and get insights such as trends, anomalies, and correlations explained in plain English using LLMs. The tool also generates visualizations dynamically to support exploratory data analysis.
 
 **Technologies:** LangChain, Pandas, Matplotlib, Plotly, Streamlit
+[![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)](https://www.langchain.com/)  
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)  
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)](https://matplotlib.org/)  
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com/)  
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
 ---
 
@@ -94,6 +113,10 @@ Upload a dataset (CSV) and get insights such as trends, anomalies, and correlati
 A smart document Q&A system that allows users to upload PDF/DOCX/TXT files and interact with them using an LLM. Incorporates document chunking, vector storage (ChromaDB), and semantic search capabilities.
 
 **Technologies:** LangChain, Hugging Face Transformers, ChromaDB, FAISS, Gradio
+[![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)](https://www.langchain.com/)  
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCA28?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/)  
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6D00?style=flat-square)](https://docs.trychroma.com/)  
+[![Gradio](https://img.shields.io/badge/Gradio-009688?style=flat-square)](https://www.gradio.app/)
 
 ---
 
@@ -101,6 +124,9 @@ A smart document Q&A system that allows users to upload PDF/DOCX/TXT files and i
 Developed a Transformer-based model for object detection in adverse weather for autonomous driving. Used the DAWN dataset and incorporated temporal and spatial features to enhance performance in fog, rain, and low-light conditions.
 
 **Technologies:** Vision Transformers, PyTorch, DAWN dataset, Object Detection Models
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)  
+[![Vision Transformers](https://img.shields.io/badge/Vision_Transformers-000000?style=flat-square)](https://arxiv.org/abs/2010.11929)  
+[![DAWN Dataset](https://img.shields.io/badge/DAWN_Dataset-555555?style=flat-square)](https://vizdoom.cs.put.edu.pl/dawn/)  
 
 ---
 
@@ -108,6 +134,9 @@ Developed a Transformer-based model for object detection in adverse weather for 
 A YOLO-based system to track vehicles and detect road signs in real time. Sends alerts for predefined scenarios (e.g., speeding, stop sign violations). Currently optimizing for video stream inputs from traffic cameras.
 
 **Technologies:** YOLOv5, OpenCV, Object Tracking, Python, Real-time Video Processing
+[![YOLO](https://img.shields.io/badge/YOLOv5-FF4088?style=flat-square)](https://github.com/ultralytics/yolov5)  
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 ---
 
@@ -115,6 +144,11 @@ A YOLO-based system to track vehicles and detect road signs in real time. Sends 
 Built a chatbot with a unique persona (e.g., Elon Musk) by fine-tuning LLMs on curated tweets, interviews, and synthetic dialogue. Explores prompt design, alignment, and synthetic data generation.
 
 **Technologies:** Hugging Face Transformers, GPT-2 / LLaMA, Google Colab, Streamlit, Prompt Engineering
+[![GPT-2](https://img.shields.io/badge/GPT--2-2C2C2C?style=flat-square)](https://huggingface.co/gpt2)  
+[![LLaMA](https://img.shields.io/badge/LLaMA-0A0A0A?style=flat-square)](https://github.com/facebookresearch/llama)  
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCA28?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/)  
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)  
+[![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 
 ---
 
