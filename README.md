@@ -30,7 +30,7 @@ This is Trish! Welcome to my GitHub!
 ---
 
 ## 👩‍🏫 About Me
-I am an experienced Software Engineer with over 6 years of experience in developing software solutions for industries including telecommunications and finance. With a solid background in Artificial Intelligence, ,FinTech, I bring expertise in designing robust applications that scale. 
+I am an experienced Software Engineer with over 6 years of experience in developing software solutions. With a solid background in Artificial Intelligence, ,FinTech, I bring expertise in designing robust applications that scale. 
 
 **I am currently** pursuing a Master's in Artificial Intelligence at the Deggendorf Institute of Technology in Germany.
 
@@ -60,6 +60,73 @@ I am an experienced Software Engineer with over 6 years of experience in develop
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 ---
+
+### 🔍 What I'm Focusing On:
+- **LLM Applications** – Building AI-powered tools with LangChain, Hugging Face, and OpenAI/Ollama.
+- **Computer Vision** – Developing object detection and face recognition systems.
+- **Generative AI** – Custom persona chatbots, meme generators, code assistants.
+- **Cloud & DevOps** – AWS EC2, GitHub Actions CI/CD, Docker, Kubernetes.
+
+  ## 🔥 Recent Projects
+
+### 🧠 Personal Task Automation Agent
+An autonomous AI agent that handles high-level tasks (e.g., weekly planning) by breaking them down into subtasks using Retrieval-Augmented Generation (RAG). It utilizes calendar APIs and vector memory for contextual awareness and persistent task memory. Features a user-friendly Streamlit interface.
+
+**Technologies:** Python, LangChain, FAISS, OpenAI/Ollama, Streamlit, GitHub Actions
+
+---
+
+### 🛠️ AI-Powered Code Debugger & Documentation Generator
+A Generative AI application that analyzes code for bugs, provides fixes using LLMs, and auto-generates documentation. Uses Python’s AST module for static analysis and FastAPI for backend APIs, with cloud-native deployment using Docker & Kubernetes.
+
+**Technologies:** FastAPI, React.js, OpenAI API, Docker, Kubernetes, AWS/GCP, Python AST
+
+---
+
+### 📊 AI Data Profiler and Visualizer
+Upload a dataset (CSV) and get insights such as trends, anomalies, and correlations explained in plain English using LLMs. The tool also generates visualizations dynamically to support exploratory data analysis.
+
+**Technologies:** LangChain, Pandas, Matplotlib, Plotly, Streamlit
+
+---
+
+### 📄 AI-Powered Document Search
+A smart document Q&A system that allows users to upload PDF/DOCX/TXT files and interact with them using an LLM. Incorporates document chunking, vector storage (ChromaDB), and semantic search capabilities.
+
+**Technologies:** LangChain, Hugging Face Transformers, ChromaDB, FAISS, Gradio
+
+---
+
+### 🚗 Transformer-Based Weather-Adaptive Object Detection
+Developed a Transformer-based model for object detection in adverse weather for autonomous driving. Used the DAWN dataset and incorporated temporal and spatial features to enhance performance in fog, rain, and low-light conditions.
+
+**Technologies:** Vision Transformers, PyTorch, DAWN dataset, Object Detection Models
+
+---
+
+### 🛣️ Smart Road Surveillance System
+A YOLO-based system to track vehicles and detect road signs in real time. Sends alerts for predefined scenarios (e.g., speeding, stop sign violations). Currently optimizing for video stream inputs from traffic cameras.
+
+**Technologies:** YOLOv5, OpenCV, Object Tracking, Python, Real-time Video Processing
+
+---
+
+### 💬 Custom Persona Chatbot (LLM Fine-Tuning)
+Built a chatbot with a unique persona (e.g., Elon Musk) by fine-tuning LLMs on curated tweets, interviews, and synthetic dialogue. Explores prompt design, alignment, and synthetic data generation.
+
+**Technologies:** Hugging Face Transformers, GPT-2 / LLaMA, Google Colab, Streamlit, Prompt Engineering
+
+---
+
+### 📚 Coursework-Based AI/ML Projects
+- **Predictive Modeling:** Built classification & regression models (SVM, KNN, Naive Bayes) with evaluation (MSE, F1, R²).
+- **Feature Engineering & Dimensionality Reduction:** Applied PCA, t-SNE, and EDA techniques.
+- **Transformer/GenAI Prototypes:** Prototyped GenAI models for NLP and Vision with Hugging Face and attention mechanisms.
+- **Agentic Workflows:** Developed multi-step reasoning agents using LangChain, memory, and RAG pipelines.
+
+**Technologies:** Scikit-learn, PyTorch, LangChain, Hugging Face, Python
+
+<!--
 
 ## 📂 Featured Projects
 
@@ -98,6 +165,7 @@ Android self-service APP, that empowers users with easy access to banking servic
 - **Impact:** Enabled community savings groups to digitize financial services
 
 ---
+-->
 
 ## 🌱 My Interests
 - Artificial Intelligence & Generative AI  
