@@ -77,7 +77,10 @@ I thrive at the intersection of **Machine Learning**, **Computer Vision**, and *
 An autonomous AI agent that handles high-level tasks (e.g., weekly planning) by breaking them down into subtasks using Retrieval-Augmented Generation (RAG). It utilizes calendar APIs and vector memory for contextual awareness and persistent task memory. Features a user-friendly Streamlit interface.
 
 **Technologies:** Python, LangChain, FAISS, OpenAI/Ollama, Streamlit, GitHub Actions
-[![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)](https://www.langchain.com/) [![FAISS](https://img.shields.io/badge/FAISS-000000?style=flat-square) (https://github.com/facebookresearch/faiss) [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/) [![Streamlit (https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)](https://www.langchain.com/)  
+[![FAISS](https://img.shields.io/badge/FAISS-000000?style=flat-square)](https://github.com/facebookresearch/faiss)  
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)  
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
 ---
 
