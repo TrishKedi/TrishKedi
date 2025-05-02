@@ -23,7 +23,6 @@ This is Trish! Welcome to my GitHub!
 ---
 
 ## 📫 Connect with Me
-- **Email:** patricia.atim@stud.th-deg.de
 - **LinkedIn:** [linkedin.com/in/patricia-atim](https://linkedin.com/in/patricia-atim)
 - **GitHub:** [TrishKedi](https://github.com/TrishKedi)
   
